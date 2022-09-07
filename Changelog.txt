@@ -1,0 +1,20 @@
+= CHANGELOG: FAITHFUL 32X - BUSHY LEAVES ADD-ON =
+
+[FORMAT]
+
+Added (+)
+  + Started adding Changelog.txt from now on
+
+Changed (~)
+  ~ Changed Pack Name into Faithful 32x - Bushy Leaves Add-On
+  ~ Fixed Grammars in Readme.txt
+  ~ Updated Pack Format into 9 (Supports 1.14-1.19)
+  ~ Slightly changed the pack description
+
+[VANILLA]
+
+Added (+)
+  + A complete revamped modeling method, adding these features:
+     + A more bushy-leaves part rotation, giving a much more natural look
+     + A Support for Custom Models from the other resource packs under the same file name as the Vanilla: leaves.json
+  + Added x-axis mirroring into models for texture consistency.
