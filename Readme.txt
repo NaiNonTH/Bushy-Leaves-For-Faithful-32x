@@ -1,10 +1,10 @@
 
 INFORMATION...
-  This pack is meant to be used with the Compliance 32x Resource Pack. Using this resource pack with the other resource pack may result in an odd-looking.
+  This pack is meant to be used with the Faithful 32x Resource Pack. Using this resource pack with the other resource pack may result in an odd-looking.
 VERSIONS...
-  1.14 to 1.19
+  1.14 to 1.19.3
 
- **IF THERE'S AN INCOMPATIBLE WARNING, JUST IGNORE IT. IT WILL BE FINE**
+ **IF THERE'S AN INCOMPATIBLE WARNING, JUST IGNORE IT; IT WILL BE FINE**
 
 
 HOW TO INSTALL...
@@ -15,11 +15,10 @@ HOW TO INSTALL...
   5. Now In Resource Packs Menu, Apply the resource pack.
   6. Enjoy the pack...
 
- **MAKE SURE THAT THIS ADD-ON IS ON TOP OF THE OTHER PACK**
+ **MAKE SURE THAT THIS ADD-ON IS ON TOP OF THE FAITHFUL RESOURCE PACK**
 
 LICENSE:
-This work is licensed under a Creative Commons Attribution 4.0 International License.
-https://creativecommons.org/licenses/by/4.0/
+This work is licensed under a Public Domain Dedication (CC0 1.0).
+https://creativecommons.org/publicdomain/zero/1.0/
 
-With the appropriate credit and a link provided, You can share, edit and use it publicly in your video as much as you want.
-However, under some of my additional conditions, *YOU MUST NOT SELL, CLAIM THIS RESOURCE PACK AS YOUR OWN, OR INCLUDE IN FALSE ADVERTISING.*
+You don't have to credit me while you still can use this project as much as you would like.However, crediting me is still appreciated.
