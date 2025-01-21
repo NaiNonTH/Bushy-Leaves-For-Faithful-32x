@@ -11,7 +11,7 @@ To properly use this resource pack, please follow these instructions:
 1. **MAKE SURE THAT THE GRAPHICS OPTION IS SET TO FANCY.**
 2. If you're using OptiFine, you should set the Tree option to __**SMART**__ for a better FPS.
 3. Alternatively, you also can use Cull Leaves mod, Cull Less Leaves mod or MoreCulling Mod for a better FPS.
-4. This resource pack works with 1.14 up to 1.19. Just ignore the warning; it will be fine. (Should also be working with related snapshots)
+4. This resource pack works with 1.14 up to 1.21.4 (Should also be working with related snapshots)
 
 ![Setting Recommendation](https://i.imgur.com/M0wCTph.png)
 
