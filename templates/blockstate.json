@@ -1,0 +1,25 @@
+{
+	"multipart": [
+		{"apply": {"model": "block/$name"}},
+		{"apply": [
+			{"model": "block/bushy_$name"},
+			{"model": "block/bushy_$name_alt"},
+			{"model": "block/bushy_$name", "y": 90},
+			{"model": "block/bushy_$name_alt", "y": 90},
+			{"model": "block/bushy_$name", "y": 180},
+			{"model": "block/bushy_$name_alt", "y": 180},
+			{"model": "block/bushy_$name", "y": 270},
+			{"model": "block/bushy_$name_alt", "y": 270}]
+		},
+		{"apply": [
+			{"model": "block/bushy_$name_alt", "y": 90},
+			{"model": "block/bushy_$name", "y": 90},
+			{"model": "block/bushy_$name"},
+			{"model": "block/bushy_$name_alt"},
+			{"model": "block/bushy_$name_alt", "y": 270},
+			{"model": "block/bushy_$name", "y": 270},
+			{"model": "block/bushy_$name", "y": 180},
+			{"model": "block/bushy_$name_alt", "y": 180}]
+		}
+	]
+}

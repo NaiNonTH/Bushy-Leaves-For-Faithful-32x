@@ -1,0 +1,6 @@
+{
+	"parent": "template/leaves_bushy_alt",
+	"textures": {
+		"bushy": "minecraft:block/azalea_leaves_bushy"
+	}
+}
